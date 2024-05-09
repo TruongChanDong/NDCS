@@ -19,7 +19,9 @@ Dự án này nhằm mục đích phát triển một hệ thống nhận dạng
 Để chạy ứng dụng cục bộ, hãy làm theo các bước sau:
 
 1.Sao chép kho lưu trữ vào máy cục bộ của bạn.
+
 2.Chạy ứng dụng Flask bằng cách thực thi python app.py.
+
 3.Truy cập ứng dụng trong trình duyệt web của bạn tại: http://127.0.0.1:5000
 ![image](https://github.com/TruongChanDong/NDCS/assets/79720049/533000ca-d49a-44ba-b20d-af4533410938)
 
