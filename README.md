@@ -1,6 +1,8 @@
 # Digit Recognition Project
 # Tổng quan
 Dự án này nhằm mục đích phát triển một hệ thống nhận dạng chữ số có khả năng nhận dạng chính xác các chữ số viết tay từ 0 đến 9. Hệ thống tận dụng các kỹ thuật học máy, bao gồm mạng thần kinh và máy vectơ hỗ trợ (SVM), để đạt được độ chính xác cao trong phân loại chữ số.
+![image](https://github.com/TruongChanDong/NDCS/assets/79720049/cf85b032-ef93-46a5-a69d-07639d40991e)
+
 # Đặc trưng
 - Giao diện vẽ chữ số viết tay: Người dùng có thể vẽ chữ số trực tiếp trên canvas do ứng dụng web cung cấp.
 - Chức năng tải lên: Người dùng cũng có thể tải lên hình ảnh chứa các chữ số viết tay để nhận dạng.
