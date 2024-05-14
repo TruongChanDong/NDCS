@@ -10,7 +10,6 @@ Dự án này nhằm mục đích phát triển một hệ thống nhận dạng
 - Độ chính xác cao: Các mô hình nhận dạng chữ số được huấn luyện trên bộ dữ liệu lớn như MNIST để đạt được độ chính xác cao trong phân loại.
 # Công nghệ được sử dụng
 - Python: Phần backend của ứng dụng được phát triển bằng ngôn ngữ lập trình Python.
-- Bình: Bình được sử dụng để tạo ứng dụng web nhận dạng chữ số.
 - TensorFlow: Thư viện TensorFlow được sử dụng để xây dựng và huấn luyện các mô hình mạng nơron nhằm nhận dạng chữ số.
 - Scikit-learn: Thư viện Scikit-learn được sử dụng để triển khai các mô hình SVM để phân loại chữ số.
 - OpenCV: OpenCV được sử dụng cho các tác vụ xử lý hình ảnh như thay đổi kích thước hình ảnh và phát hiện đường viền.
